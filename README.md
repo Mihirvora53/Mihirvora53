@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mihirvora53
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React.js
 
 
 <!---
